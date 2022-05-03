@@ -2,7 +2,7 @@
 
 ## Me chamo REY
 
-:computer: Sou um desenvolvedor Fullstack!
+:computer: Sou um desenvolvedor Júnior!
 
 :house_with_garden: Moro no Brasil, interior de SP.
 
