@@ -6,7 +6,7 @@
 
 :house_with_garden: Moro no Brasil, interior de SP.
 
-:outbox_tray: Objetivos de 2022: criar novos projetos e se tornar um grande Dev
+:outbox_tray: Objetivos de 2022: criar novos projetos e se tornar um Dev FullStack
 
 ## Entre em contato comigo
 
